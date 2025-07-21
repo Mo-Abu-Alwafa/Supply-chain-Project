@@ -4,6 +4,10 @@
 ![Python](https://img.shields.io/badge/Python-EDA-green?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Insights-orange?style=for-the-badge)
 
+<p align="center">
+  <img src="supply flow.png" alt="Web App Sample" width="600"/>
+</p>
+
 ## 📋 Project Information
 
 **Data Source:** `supply data done.xlsx`  
