@@ -16,13 +16,21 @@
 
 **Data Source:** `supply data done.xlsx`  
 **Python EDA:** `supply chain (python EDA).py`  
-**Dashboards:** Tableau/Power BI (see insights below)
+**Dashboards:** Power BI (see insights below)
 
 ## 📊 Project Overview
 
 This project delivers a comprehensive analysis of supply chain operations, leveraging Python EDA and interactive dashboards to uncover actionable insights in inventory, suppliers, regional performance, product sales, and logistics. The goal is to optimize supplier management, inventory planning, customer targeting, and shipping efficiency.
 
 ## 🔍 Exploratory Data Analysis (EDA) Highlights
+
+<p align="center">
+  <img src="categorical data EDA.png" alt="Web App Sample" width="600"/>
+</p>
+
+<p align="center">
+  <img src="EDA Product Preferences by Customer .png" alt="Web App Sample" width="600"/>
+</p>
 
 ### Data Quality & Exploration
 - **Data Exploration:** Checked for missing values, duplicates, and basic statistics
