@@ -58,6 +58,10 @@ This project delivers a comprehensive analysis of supply chain operations, lever
 
 ### 1. 🏭 Inventory & Suppliers Management
 
+<p align="center">
+  <img src="supp.jpg" alt="Web App Sample" width="600"/>
+</p>
+
 #### Key Metrics
 - **Production Volumes:** 56.8K units
 - **Avg. Manufacturing Lead Time:** 15 days
@@ -75,6 +79,10 @@ This project delivers a comprehensive analysis of supply chain operations, lever
 - Prioritize replenishment of low-stock SKUs
 
 ### 2. 🌍 Regional Insights
+
+<p align="center">
+  <img src="reg.jpg" alt="Web App Sample" width="600"/>
+</p>
 
 #### Revenue by City
 - **Top Cities by Revenue:**
@@ -97,6 +105,10 @@ This project delivers a comprehensive analysis of supply chain operations, lever
 - Boost sales in Bangalore
 
 ### 3. 📊 Product & Sales Key Performance Indicators (KPI)
+
+<p align="center">
+  <img src="kpi.jpg" alt="Web App Sample" width="600"/>
+</p>
 
 #### Overall Metrics
 - **Total Revenue:** $2.3M
@@ -122,6 +134,10 @@ This project delivers a comprehensive analysis of supply chain operations, lever
 - Optimize product portfolio
 
 ### 4. 🚚 Shipping & Logistics Insights
+
+<p align="center">
+  <img src="ship.jpg" alt="Web App Sample" width="600"/>
+</p>
 
 #### Key Metrics
 - **Total Shipping Times:** 6
