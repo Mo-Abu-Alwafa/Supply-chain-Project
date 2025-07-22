@@ -14,9 +14,9 @@
 
 ## 📋 Project Information
 
-**Data Source:** `supply data done.xlsx`  
+**Data Source:** `1. supply_chain_data.csv`  
 **Python EDA:** `supply chain (python EDA).py`  
-**Dashboards:** Power BI (see insights below)
+**Dashboards:** Power Tableau (see insights below)
 
 ## 📊 Project Overview
 
